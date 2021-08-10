@@ -5,6 +5,10 @@
         {
             "name": "default",
             "apply_when": {},
+            "fields": {
+                "store_hash": {}
+            },
+            "write": true,
             "insert": true,
             "delete": true,
             "search": true,
