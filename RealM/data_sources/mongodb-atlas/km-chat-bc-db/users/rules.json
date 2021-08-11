@@ -5,6 +5,10 @@
         {
             "name": "default",
             "apply_when": {},
+            "fields": {
+                "email": {}
+            },
+            "write": true,
             "insert": true,
             "delete": true,
             "search": true,
